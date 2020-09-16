@@ -21,6 +21,6 @@ Any other library different to the provided by Qt has been used to simplify the 
 Just open the project file [sample_app.pro](haru_routines_creator.pro) using **QtCreator**, configure the project using the default settings and compile.
 
 
-## Deploying the App
+## Deploying the App for Linux
 
 To create a self-contained executable easily, we recommend the [AppImage](https://github.com/probonopd/linuxdeployqt) tool. You can also get the current deployed AppImage of this app from **Releases** page of this repository. If you want to create one by yourself, follow the instructions described in the file [AppImage/HowTo.md](AppImage/HowTo.md).
