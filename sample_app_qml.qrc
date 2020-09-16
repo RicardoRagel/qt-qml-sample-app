@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>qml/CustomWidgets/CustomButton.qml</file>
+        <file>qml/CustomWidgets/CustomCheckBox.qml</file>
+        <file>qml/ItemList.qml</file>
+        <file>qml/CustomWidgets/CustomScrollView.qml</file>
+        <file>qml/ItemInput.qml</file>
+        <file>qml/ItemsViewer.qml</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Sample App
+Comment=App created using the qt-qml-sample-app package
+Exec=sample_app
+Icon=icon_app
+Categories=Office;
+X-AppImage-Version=1.0.0
+Name[en_US]=sample_app.desktop
