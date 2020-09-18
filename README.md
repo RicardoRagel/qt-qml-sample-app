@@ -14,7 +14,7 @@ If you want to just use it, you can go directly to the [Releases](https://github
 
 * [Qt + QtCreator](https://www.qt.io/download). Created using Qt 5.14.2
 
-Any other library different to the provided by Qt has been used to simplify the example.
+No other libraries different from the provided by Qt have been used to simplify the example.
 
 ## Installation
 
